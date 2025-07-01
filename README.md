@@ -15,6 +15,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1dd03677-da05-45ea-a70e-6d4f60e45a48/deploy-status)](https://chris-courses-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.chris-courses-website&left_text=repo%20views)
 
 ## ℹ️ A Multi-Section Responsive Landing Page
 
