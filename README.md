@@ -31,7 +31,7 @@ A full landing page for an online course platform, built entirely with semantic 
 
 This is a fully responsive, multi-section landing page inspired by Tailwind UI. Built from a Figma design using semantic HTML and custom CSS, the layout simulates a real-world course platform with clean structure and accessibility in mind.
 
-This project served as a hands-on exercise in building complex layouts from scratch, deepening my understanding of responsive design, mobile-first development, and professional UI/UX patterns — all without using any frameworks.
+This project served as a hands-on exercise in building complex layouts from scratch, deepening my understanding of responsive design, mobile-first development, and professional UI/UX patterns all without using any frameworks.
 
 ---
 
