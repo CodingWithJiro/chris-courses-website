@@ -1,4 +1,4 @@
-# 💻 Chris Courses Learning Platform
+# Chris Courses Learning Platform
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.chris-courses-website&left_text=repo%20views)
 
-## ℹ️ A Multi-Section Responsive Landing Page
+## A Multi-Section Responsive Landing Page
 
 | _Mobile Preview (375x812)_                       | _Desktop Preview (1440x960)_                        |
 | ------------------------------------------------ | --------------------------------------------------- |
@@ -27,7 +27,7 @@ A full landing page for an online course platform, built entirely with semantic 
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This is a fully responsive, multi-section landing page inspired by Tailwind UI. Built from a Figma design using semantic HTML and custom CSS, the layout simulates a real-world course platform with clean structure and accessibility in mind.
 
@@ -35,7 +35,7 @@ This project served as a hands-on exercise in building complex layouts from scra
 
 ---
 
-## ✨ Features
+## Features
 
 - Responsive grid layout using Flexbox and CSS Grid
 - Call-to-action buttons and links with hover states
@@ -50,7 +50,7 @@ This project served as a hands-on exercise in building complex layouts from scra
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to code a fully responsive website from a Figma design link
 - How to structure multi-section landing pages with semantic HTML
@@ -62,7 +62,7 @@ This project served as a hands-on exercise in building complex layouts from scra
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -73,23 +73,23 @@ This project served as a hands-on exercise in building complex layouts from scra
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://chris-courses-jiro.netlify.app/)
+Or you can check out the **[live website here](https://chris-courses-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
